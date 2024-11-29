@@ -1,0 +1,61 @@
+{
+    "user_details" :{
+        "name"         : "enter_name",
+        "email_id"     : "enter_email_id",
+        "phone_no"     : "enter_phone_no",
+        "linkedin"     : "link_to_your_linkedin_profile",
+        "about_user"   : "enter about"
+    },
+    "skills" : [
+        "C++",
+        "Python",
+        "git",
+        "git_hub"
+    ],
+    "education_details" : [
+        {
+            "course"     :"enter_course",
+            "university" :"university",
+            "from_date"  :"2014-02",
+            "to_date"    :"2016-04"
+        },
+        {
+            "course"     :"enter_course",
+            "university" :"university",
+            "from_date"  :"2014-02",
+            "to_date"    :"2016-04"
+        },
+        {
+            "course"     :"enter_course",
+            "university" :"university",
+            "from_date"  :"2014-02",
+            "to_date"    :"2016-04"
+        }
+    ],
+    "experience_details" : [
+        {
+            "designation"            :"enter_designation",
+            "organization"           :"organization",
+            "currently_working_here" : true,
+            "from_date"              :"2014-02",
+            "to_date"                :"2016-04",
+            "about_role"             :"write about role"
+        },
+        {
+            "designation"            :"enter_designation",
+            "organization"           :"organization",
+            "currently_working_here" : true,
+            "from_date"              :"2014-02",
+            "to_date"                :"2016-04",
+            "about_role"             :"write about role"
+        },
+        {
+            "designation"            :"enter_designation",
+            "organization"           :"organization",
+            "currently_working_here" : true,
+            "from_date"              :"2014-02",
+            "to_date"                :"2016-04",
+            "about_role"             :"write about role"
+        }
+    ]
+}
